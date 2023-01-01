@@ -8,7 +8,7 @@ config/development
 .hugo_build.lock
 
 # Generate dist resource folders
-public/
+#public/
 resources/
 
 # MacOS
